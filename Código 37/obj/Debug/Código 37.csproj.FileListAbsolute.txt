@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\bin\Debug\Código 37.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\bin\Debug\Código 37.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\bin\Debug\Código 37.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\obj\Debug\Código 37.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\obj\Debug\Código 37.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\obj\Debug\Código 37.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\obj\Debug\Código 37.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 37\obj\Debug\Código 37.pdb

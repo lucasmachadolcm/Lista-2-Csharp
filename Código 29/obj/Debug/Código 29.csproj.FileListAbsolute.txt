@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\bin\Debug\Código 29.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\bin\Debug\Código 29.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\bin\Debug\Código 29.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\obj\Debug\Código 29.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\obj\Debug\Código 29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\obj\Debug\Código 29.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\obj\Debug\Código 29.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 29\obj\Debug\Código 29.pdb

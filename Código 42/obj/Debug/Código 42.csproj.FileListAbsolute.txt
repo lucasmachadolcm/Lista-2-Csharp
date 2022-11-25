@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\bin\Debug\Código 42.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\bin\Debug\Código 42.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\bin\Debug\Código 42.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\obj\Debug\Código 42.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\obj\Debug\Código 42.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\obj\Debug\Código 42.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\obj\Debug\Código 42.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 42\obj\Debug\Código 42.pdb

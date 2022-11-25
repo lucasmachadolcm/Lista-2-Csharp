@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\bin\Debug\Código5.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\bin\Debug\Código5.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\bin\Debug\Código5.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\obj\Debug\Código5.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\obj\Debug\Código5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\obj\Debug\Código5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\obj\Debug\Código5.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código5\obj\Debug\Código5.pdb

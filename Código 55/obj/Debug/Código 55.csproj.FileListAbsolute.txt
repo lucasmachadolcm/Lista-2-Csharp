@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\bin\Debug\Código 55.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\bin\Debug\Código 55.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\bin\Debug\Código 55.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\obj\Debug\Código 55.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\obj\Debug\Código 55.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\obj\Debug\Código 55.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\obj\Debug\Código 55.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 55\obj\Debug\Código 55.pdb

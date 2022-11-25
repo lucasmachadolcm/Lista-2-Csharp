@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\bin\Debug\Código 21.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\bin\Debug\Código 21.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\bin\Debug\Código 21.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\obj\Debug\Código 21.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\obj\Debug\Código 21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\obj\Debug\Código 21.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\obj\Debug\Código 21.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 21\obj\Debug\Código 21.pdb

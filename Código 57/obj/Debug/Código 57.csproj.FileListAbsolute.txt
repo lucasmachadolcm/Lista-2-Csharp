@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\bin\Debug\Código 57.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\bin\Debug\Código 57.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\bin\Debug\Código 57.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\obj\Debug\Código 57.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\obj\Debug\Código 57.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\obj\Debug\Código 57.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\obj\Debug\Código 57.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 57\obj\Debug\Código 57.pdb

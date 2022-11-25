@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\bin\Debug\Código 18.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\bin\Debug\Código 18.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\bin\Debug\Código 18.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\obj\Debug\Código 18.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\obj\Debug\Código 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\obj\Debug\Código 18.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\obj\Debug\Código 18.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 18\obj\Debug\Código 18.pdb

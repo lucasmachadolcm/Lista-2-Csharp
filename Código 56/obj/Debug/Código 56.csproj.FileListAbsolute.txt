@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\bin\Debug\Código 56.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\bin\Debug\Código 56.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\bin\Debug\Código 56.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\obj\Debug\Código 56.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\obj\Debug\Código 56.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\obj\Debug\Código 56.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\obj\Debug\Código 56.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 56\obj\Debug\Código 56.pdb

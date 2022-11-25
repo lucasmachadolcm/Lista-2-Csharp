@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\obj\Debug\Código 24.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\obj\Debug\Código 24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\obj\Debug\Código 24.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\bin\Debug\Código 24.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\bin\Debug\Código 24.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\bin\Debug\Código 24.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\obj\Debug\Código 24.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 24\obj\Debug\Código 24.pdb

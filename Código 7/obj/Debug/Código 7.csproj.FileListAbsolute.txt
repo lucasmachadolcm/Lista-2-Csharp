@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\bin\Debug\Código 7.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\bin\Debug\Código 7.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\bin\Debug\Código 7.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\obj\Debug\Código 7.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\obj\Debug\Código 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\obj\Debug\Código 7.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\obj\Debug\Código 7.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 7\obj\Debug\Código 7.pdb

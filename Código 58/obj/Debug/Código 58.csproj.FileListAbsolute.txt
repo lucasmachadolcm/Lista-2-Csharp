@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\bin\Debug\Código 58.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\bin\Debug\Código 58.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\bin\Debug\Código 58.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\obj\Debug\Código 58.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\obj\Debug\Código 58.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\obj\Debug\Código 58.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\obj\Debug\Código 58.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 58\obj\Debug\Código 58.pdb

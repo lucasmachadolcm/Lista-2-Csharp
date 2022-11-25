@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\bin\Debug\Código 46.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\bin\Debug\Código 46.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\bin\Debug\Código 46.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\obj\Debug\Código 46.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\obj\Debug\Código 46.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\obj\Debug\Código 46.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\obj\Debug\Código 46.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 46\obj\Debug\Código 46.pdb

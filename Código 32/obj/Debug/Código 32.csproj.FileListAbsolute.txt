@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\bin\Debug\Código 32.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\bin\Debug\Código 32.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\bin\Debug\Código 32.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\obj\Debug\Código 32.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\obj\Debug\Código 32.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\obj\Debug\Código 32.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\obj\Debug\Código 32.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 32\obj\Debug\Código 32.pdb

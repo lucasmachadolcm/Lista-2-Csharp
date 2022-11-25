@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\obj\Debug\Código 64.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\obj\Debug\Código 64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\obj\Debug\Código 64.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\bin\Debug\Código 64.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\bin\Debug\Código 64.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\bin\Debug\Código 64.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\obj\Debug\Código 64.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 64\obj\Debug\Código 64.pdb

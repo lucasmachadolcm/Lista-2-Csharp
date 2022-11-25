@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\bin\Debug\Código 8.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\bin\Debug\Código 8.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\bin\Debug\Código 8.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\obj\Debug\Código 8.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\obj\Debug\Código 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\obj\Debug\Código 8.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\obj\Debug\Código 8.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 8\obj\Debug\Código 8.pdb

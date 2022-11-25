@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\bin\Debug\Código 45.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\bin\Debug\Código 45.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\bin\Debug\Código 45.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\obj\Debug\Código 45.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\obj\Debug\Código 45.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\obj\Debug\Código 45.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\obj\Debug\Código 45.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 45\obj\Debug\Código 45.pdb

@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\bin\Debug\Código 44.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\bin\Debug\Código 44.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\bin\Debug\Código 44.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\obj\Debug\Código 44.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\obj\Debug\Código 44.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\obj\Debug\Código 44.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\obj\Debug\Código 44.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 44\obj\Debug\Código 44.pdb

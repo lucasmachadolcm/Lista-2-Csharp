@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\bin\Debug\Código 26.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\bin\Debug\Código 26.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\bin\Debug\Código 26.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\obj\Debug\Código 26.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\obj\Debug\Código 26.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\obj\Debug\Código 26.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\obj\Debug\Código 26.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 26\obj\Debug\Código 26.pdb

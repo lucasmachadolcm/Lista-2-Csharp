@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\bin\Debug\Código 23.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\bin\Debug\Código 23.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\bin\Debug\Código 23.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\obj\Debug\Código 23.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\obj\Debug\Código 23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\obj\Debug\Código 23.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\obj\Debug\Código 23.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 23\obj\Debug\Código 23.pdb

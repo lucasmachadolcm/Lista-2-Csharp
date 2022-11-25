@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\obj\Debug\Código 63.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\obj\Debug\Código 63.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\obj\Debug\Código 63.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\bin\Debug\Código 63.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\bin\Debug\Código 63.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\bin\Debug\Código 63.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\obj\Debug\Código 63.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 63\obj\Debug\Código 63.pdb

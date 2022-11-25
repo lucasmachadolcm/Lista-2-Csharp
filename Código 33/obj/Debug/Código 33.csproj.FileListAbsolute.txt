@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\obj\Debug\Código 33.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\obj\Debug\Código 33.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\obj\Debug\Código 33.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\bin\Debug\Código 33.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\bin\Debug\Código 33.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\bin\Debug\Código 33.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\obj\Debug\Código 33.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 33\obj\Debug\Código 33.pdb
