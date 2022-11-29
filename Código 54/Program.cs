@@ -10,42 +10,56 @@ namespace Código_54
     {
         static void Main(string[] args)
         {
-            int[] A = new int[5];
-            int[] B = new int[8];
-            int[] C = new int[5];
-            //List<Integer> C = new ArrayList<Integer>();
-            int w = 0;
-            int x = 0;
-            int y = 0;
+            int[] vet1 = new int[5];
+            int[] vet2 = new int[8];
+            int[] vetigual = null;
+                
+            
+            int tamanhoArray = vet2.Count();
+            vetigual = new int[tamanhoArray];
 
-            for (x = 0; x < 5; x++)
+            for (int x = 0; x < vet1.Count(); x++)
             {
-                Console.WriteLine("Digite um número para o vetor A: ");
-                A[x] = int.Parse(Console.ReadLine());
-            }
-            for (x = 0; x < 8; x++)
-            {
-                Console.WriteLine("Digite um número para o vetor B: ");
-                B[x] = int.Parse(Console.ReadLine());
-                for (y = 0; y < 5; y++)
+               Console.WriteLine("Digite o "+(x+1)+"º número para o vetor 1: ");
+              vet1[x] = int.Parse(Console.ReadLine());
+
+                for (int y = 0; y < vet2.Count(); y++)
                 {
-                    if (B[x] == A[y])
+                    Console.WriteLine("Digite o " + (y + 1) + "º número para o vetor 2: ");
+                    vet2[y] = int.Parse(Console.ReadLine());
+                    if (vet1[x] == vet2[y])
                     {
-                        C[w] = (A[y], B[x]);
-                        w++;
+                        vetigual[y] = vet2[y];
+                                              
+                    }
+
+                }
+               
+            }
+            if (vetigual != null)
+            {
+                int contador = 0;
+                Console.WriteLine("Os valores encontrados foram:");
+                foreach (var item in vetigual)
+                {
+                    if (item != 0)
+                    {
+                        contador++;
+                        Console.WriteLine(item);
                     }
                 }
-            }
-            Console.WriteLine("Números comuns: ");
-            for (x = 0; x < C[5](); x++)
-            {
 
-                Console.WriteLine(C.Get(x) + " ");
+                if (contador == 0)
+                {
+                    Console.WriteLine("Não foram encontrados valores iguais");
+                }
+                                
             }
-            Console.WriteLine();
+                Console.ReadLine();
+
+
         }
-       			
-					
+       						
 
     }
     

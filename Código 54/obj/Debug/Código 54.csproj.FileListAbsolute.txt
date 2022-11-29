@@ -1,0 +1,8 @@
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\obj\Debug\Código 54.csproj.AssemblyReference.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\obj\Debug\Código 54.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\obj\Debug\Código 54.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\bin\Debug\Código 54.exe.config
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\bin\Debug\Código 54.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\bin\Debug\Código 54.pdb
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\obj\Debug\Código 54.exe
+C:\Users\Lucas Machado\Documents\POO\OAT\Código 1\Código 54\obj\Debug\Código 54.pdb

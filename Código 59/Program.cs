@@ -11,21 +11,25 @@ namespace Código_59
         static void Main(string[] args)
         {
             char[] letras = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'w', 'y', 'z' };
-
+            char letra1;
+            char letra2;
+            int primeiraletra;
+            int segundaletra;
+            int diferencas;
             Console.WriteLine("Digite a primeira letra: ");
-            char caractere = Convert.ToChar(Console.ReadLine());
+            letra1 = Convert.ToChar(Console.ReadLine());
 
-            int primeiraL = ContaLetra(caractere, letras);
+            primeiraletra = contaletra(letra1, letras);
 
             Console.WriteLine("Digite a segunda letra: ");
-            char outroL = Convert.ToChar(Console.ReadLine());
+            letra2 = Convert.ToChar(Console.ReadLine());
 
-            int segundoL = ContaLetra(outroL, letras);
+            segundaletra = contaletra(letra2, letras);
 
 
-            int diferencas = segundoL - primeiraL - 1;
+            diferencas = segundaletra - primeiraletra;
 
-            if (primeiraL >= 0 && segundoL >= 0 && diferencas >= 0)
+            if (primeiraletra >= 0 && segundaletra >= 0 && diferencas >= 0)
             {
                 Console.WriteLine("O numero de caracteres entre eles é:  " + diferencas);
             }
@@ -36,7 +40,7 @@ namespace Código_59
             Console.ReadLine();
         }
 
-        public static int ContaLetra(char ch, char[] letras)
+        public static int contaletra(char ch, char[] letras)
         {
 
             int num = -1;
